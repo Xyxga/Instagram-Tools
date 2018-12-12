@@ -17,6 +17,9 @@ Easy tool for manage your Instagram Account.
 - Follow Account By Hashtag (Follow all accounts by targeted hashtag)
 - Follow Account By Location (Follow all accounts by targeted location)
 
+## Requirements
+- Git
+- Node.JS
 
 ## Installation
 ```
