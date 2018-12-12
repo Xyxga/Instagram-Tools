@@ -3,7 +3,7 @@ Easy tool for manage your Instagram Account.
 
 ## Screenshots
 <p align="center">
-  <img src="https://img.youtube.com/vi/IVFwgFV81Pw/maxresdefault.jpg">
+  <img src="https://i.ibb.co/8XpVZFc/Thumb.jpg">
 </p>
 
 ## List Tools 
