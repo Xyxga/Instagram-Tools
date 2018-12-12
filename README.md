@@ -3,7 +3,7 @@ Easy tool for manage your Instagram Account.
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/Xyxga/Instagram-Tools/blob/master/InstagramTools.jpg">
+  <img src="https://img.youtube.com/vi/IVFwgFV81Pw/maxresdefault.jpg">
 </p>
 
 ## List Tools 
@@ -29,9 +29,6 @@ cd Instagram-Tools
 npm install
 node index.js
 ```
-
-## Video
-[![Video](http://img.youtube.com/vi/IVFwgFV81Pw/maxresdefault.jpg)](https://www.youtube.com/watch?v=IVFwgFV81Pw)
 
 ## Special Thanks To
 ```
