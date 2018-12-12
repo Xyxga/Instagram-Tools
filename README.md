@@ -30,6 +30,9 @@ npm install
 node index.js
 ```
 
+## Video
+[![Video](http://img.youtube.com/vi/IVFwgFV81Pw/maxresdefault.jpg)](https://www.youtube.com/watch?v=IVFwgFV81Pw)
+
 ## Special Thanks To
 ```
 Code by Cyber Screamer Ccocot (ccocot@bc0de.net)
