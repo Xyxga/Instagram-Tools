@@ -1,8 +1,12 @@
+## Instagram Tools
+Easy tool for manage your Instagram Account.
+
+## Screenshots
 <p align="center">
   <img src="https://github.com/Xyxga/Instagram-Tools/blob/master/InstagramTools.jpg">
 </p>
 
-# List Tools
+## List Tools 
 - Robot Like v.1 (Automatic like all post in timeline with delay)
 - Robot Like v.2 (Automatic like all post in timeline with delay)
 - Delete All Media (Delete all posts on your Instagram account)
@@ -14,7 +18,7 @@
 - Follow Account By Location (Follow all accounts by targeted location)
 
 
-# Installation
+## Installation
 ```
 git clone https://github.com/Xyxga/Instagram-Tools.git
 cd Instagram-Tools
@@ -22,7 +26,7 @@ unzip node_modules.zip
 node index.js
 ```
 
-# Special Thanks To
+## Special Thanks To
 ```
 Code by Cyber Screamer Ccocot (ccocot@bc0de.net)
 Fixing by (@officialputu_id)
