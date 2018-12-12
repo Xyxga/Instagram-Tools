@@ -19,13 +19,14 @@ Easy tool for manage your Instagram Account.
 
 ## Requirements
 - Git
+- Npm
 - Node.JS
 
 ## Installation
 ```
 git clone https://github.com/Xyxga/Instagram-Tools.git
 cd Instagram-Tools
-unzip node_modules.zip
+npm install
 node index.js
 ```
 
